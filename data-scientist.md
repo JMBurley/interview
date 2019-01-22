@@ -26,4 +26,4 @@ What do you find interesting about this graph?
 
 ### Other Data Stories
 
-Please feel free to implement novel ideas that tells interesting data stories using Semantic Scholar [Open Research Corpus](http://labs.semanticscholar.org/corpus/).
+Please feel free to implement novel ideas that tell interesting data stories using Semantic Scholar [Open Research Corpus](http://labs.semanticscholar.org/corpus/).
