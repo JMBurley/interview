@@ -16,10 +16,14 @@ Semantic Scholar made available a subset of the full corpus as its [Open Researc
 
 Construct an author graph up to two-neighbors starting with publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885` using the data subset that meets the requirements of this section.
 
+What do you find interesting about this graph?
+
 ### Publication Graph
 
 Construct a publication graph based on publications associated with the author graph above. This publication graph will be incomplete, because you are working with only the data subset that meets the requirements of this section. __You don't need to retrieve publication data beyond the subset you're required to work with__ .
 
+What do you find interesting about this graph?
+
 ### Other Data Stories
 
-Please feel free to implement novel ideas that tells data stories using Semantic Scholar [Open Research Corpus](http://labs.semanticscholar.org/corpus/).
+Please feel free to implement novel ideas that tells interesting data stories using Semantic Scholar [Open Research Corpus](http://labs.semanticscholar.org/corpus/).
