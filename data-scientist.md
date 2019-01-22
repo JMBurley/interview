@@ -10,11 +10,11 @@ Semantic Scholar made available a subset of the full corpus as its [Open Researc
 **Requirements**:
 1. Please use **ONLY** data from `` and `` of the Open Research Corpus.
 1. You are allowed to use the Semantic Scholar search API to explore the data set and test ideas. However, your solution cannot make any calls to the search API.
-1. Please use any tools or software you need to tell data stories. However, __CSET will not reimburse you on costs incurred for using these tools and software__.
+1. Please use any tools, software, or services you need to tell data stories. However, __CSET will not reimburse you on costs incurred for completing this project__.
 
 ### Author Graph
 
-Construct an author graph up to two-neighbors starting with publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885` with the data subset that meets the requirements of this section.
+Construct an author graph up to two-neighbors starting with publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885` using the data subset that meets the requirements of this section.
 
 ### Publication Graph
 
