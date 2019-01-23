@@ -1,6 +1,6 @@
 # Interview - Data Scientist
 
-Please compose a data story for each of the following sections.
+Please compose a data story for each of the following sections. A good balance of prose and visualization would be awesome.
 
 ## Semantic Scholar
 
