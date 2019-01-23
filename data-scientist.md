@@ -14,7 +14,7 @@ Semantic Scholar made available a subset of the full corpus as its [Open Researc
 
 ### Author Graph
 
-Construct an author graph up to "two-neighbors" starting with publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885` using the data subset that meets the requirements of this section. In other words, starting with an author of publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885`, this author graph should contain all of the author's co-authors as well as co-authors of each co-author.
+Construct an author graph up to "two-neighbors" starting with publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885` from the data subset that meets the requirements of this section. In other words, starting with an author of publication ID `22720d75b8c73afd3bf4917fd5512dcc11e19885`, this author graph should contain all of the author's co-authors as well as co-authors of each co-author.
 
 What do you find interesting about this graph?
 
