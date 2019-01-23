@@ -1,6 +1,6 @@
 # Interview - Data Scientist
 
-Please compose a data story for each of the following sections. A good balance of prose and visualization would be awesome.
+Please process and analyze the following data and compose a data story for each of the following sections. A good balance of documented code, visualization, and clarifiying prose is desired.
 
 ## Semantic Scholar
 
@@ -26,4 +26,4 @@ What do you find interesting about this graph?
 
 ### Other Data Stories
 
-Please feel free to implement novel ideas that tell interesting data stories using Semantic Scholar [Open Research Corpus](http://labs.semanticscholar.org/corpus/).
+Please feel free to implement one idea that tells an interesting data stories using Semantic Scholar [Open Research Corpus](http://labs.semanticscholar.org/corpus/).
